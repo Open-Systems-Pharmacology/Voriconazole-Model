@@ -1,5 +1,5 @@
 # Voriconazole-Model
-Modeling of published clinical Voriconazole-Bupropion DDI study for model evaluation
+Whole-body PBPK model of voriconazole as CYP2C19 substrate (pharmacogenomics analysis) and usalke as CYP3A4 perpetrator drug
 
 ## Repository files
 Within this repository, we distribute a PK-Sim project file containing simulations of a published clinical study used to evaluate the descriptive and predictive performance of the voriconazole model, including the observed data digitized from literature reports. The voriconazole model has been published previously [[1](https://link.springer.com/article/10.1007%2Fs40262-019-00856-z)].
