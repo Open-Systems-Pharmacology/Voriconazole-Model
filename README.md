@@ -3,6 +3,7 @@ Whole-body PBPK model of voriconazole as CYP2C19 substrate (pharmacogenomics ana
 
 ## Repository files
 Within this repository, we distribute a PK-Sim project file containing simulations of a published clinical study used to evaluate the descriptive and predictive performance of the voriconazole model, including the observed data digitized from literature reports. The voriconazole model has been published previously [[1](https://link.springer.com/article/10.1007%2Fs40262-019-00856-z)].
+Additionally, a PK-Sim snapshot (\*.json) file of the current PBPK model created with PK-Sim version 9.1 is provided.
 
 ## Version information
 
